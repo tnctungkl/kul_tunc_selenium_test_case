@@ -1,4 +1,4 @@
-# 🖥️ QA Selenium Automation Test Case – Inspector Popup Validation
+# 🖥️ QA Selenium Automation Test Case
 
 ## 1. 🌐 Overview
 
