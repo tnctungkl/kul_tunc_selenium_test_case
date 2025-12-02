@@ -156,5 +156,5 @@ LinkedIn: linkedin.com/in/tnckl1n
 ---
 
 ## 10. 👑 Author:     
-                    **Tunç KUL**  
-                **Computer Engineer** 
+                      Tunç KUL  
+                  Computer Engineer
