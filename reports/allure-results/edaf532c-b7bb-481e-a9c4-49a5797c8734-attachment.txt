@@ -1,0 +1,1 @@
+[32mINFO    [0m HomePage:test_popup.py:19 Asserting that campaign popup is not visible on home page.

@@ -1,0 +1,1 @@
+[32mINFO    [0m ProductPage:page_base.py:17 Navigating to URL: https://piratesquad.rocks/art/4-the-adventure-begins-framed-poster.html
